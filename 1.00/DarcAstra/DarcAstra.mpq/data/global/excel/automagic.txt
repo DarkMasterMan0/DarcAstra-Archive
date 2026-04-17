@@ -1,0 +1,50 @@
+Name	version	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	multiply	add
+Fletcher's	100	1	1	1		15				3	300	skilltab	0	1	1										armo	weap											0	0
+Bowyer's	100	1	1	40		30				2	300	skilltab	0	2	2										armo	weap											0	0
+Archer's	100	1		60		45				1	300	skilltab	0	3	3										armo	weap											0	0
+Acrobat's	100	1	1	1		15				3	301	skilltab	1	1	1										armo	weap											0	0
+Gymnast's	100	1	1	40		30				2	301	skilltab	1	2	2										armo	weap											0	0
+Athlete's	100	1		60		45				1	301	skilltab	1	3	3										armo	weap											0	0
+Harpoonist's	100	1	1	1		15				3	302	skilltab	2	1	1										armo	weap											0	0
+Spearmaiden's	100	1	1	40		30				2	302	skilltab	2	2	2										armo	weap											0	0
+Lancer's	100	1		60		45				1	302	skilltab	2	3	3										armo	weap											0	0
+of the Jackal	100	1	1	1	42	3				6	303	hp		1	5										armo	weap											0	0
+of the Fox	100	1	1	11	58	7				5	303	hp		6	10										armo	weap											0	0
+of the Wolf	100	1	1	27	74	13				4	303	hp		11	20										armo	weap											0	0
+of the Tiger	100	1	1	43		21				3	303	hp		21	30										armo	weap											0	0
+of the Mammoth	100	1	1	59		29				2	303	hp		31	40										armo	weap											0	0
+of the Colossus	100	1		75		36				1	303	hp		41	60										armo	weap											0	0
+Lizard's	100	1	1	3	44	2				4	303	mana		1	5										armo	weap											0	0
+Snake's	100	1	1	12	55	5				3	303	mana		5	10										armo	weap											0	0
+Serpent's	100	1	1	23	66	11				2	303	mana		11	20										armo	weap											0	0
+Drake's	100	1	1	34		17				2	303	mana		21	30									cblu	armo	weap											0	0
+Dragon's	100	1	1	45		23				1	303	mana		31	40									cblu	armo	weap											0	0
+Wyrm's	100	1	1	56		28				1	303	mana		41	60									cblu	armo	weap											0	0
+Great Wyrm's	100	1		67		34				1	303	mana		61	80									cblu	armo	weap											0	0
+Shimmering	100	1	1	1		3				12	304	res-all		5	10										armo	weap											0	0
+Rainbow	100	1	1	18		13				10	304	res-all		8	15										armo	weap											0	0
+Scintillating	100	1	1	28		21				8	304	res-all		16	20										armo	weap											0	0
+Prismatic	100	1		39		31				5	304	res-all		21	25										armo	weap											0	0
+Chromatic	100			50	-1	42				4	304	res-all		35	45										armo	weap											0	0
+Sharp	100	1	1	10	49	3				3	304	att		15	30	dmg%		10	20						armo	weap											0	0
+Fine	100	1	1	18		10				3	304	att		31	60	dmg%		21	30						armo	weap											0	0
+Warrior's	100	1	1	30		19				2	304	att		61	80	dmg%		31	40						armo	weap											0	0
+Soldier's	100	1	1	42		29				2	304	att		81	100	dmg%		41	50						armo	weap											0	0
+Knight's	100	1	1	50		38				2	304	att		101	121	dmg%		51	65					dgld	armo	weap											0	0
+of Blight Normal	100	1	1	1	47	2				3	305	dmg-pois	75	8	24	res-pois-len		15	15						armo	weap											0	0
+of Venom Normal	100	1	1	15		7				2	305	dmg-pois	100	29	78	res-pois-len		20	20						armo	weap											0	0
+of Pestilence Normal	100	1	1	25		13				2	305	dmg-pois	125	72	158	res-pois-len		25	25						armo	weap											0	0
+of Anthrax Normal	100	1	1	33		21				2	305	dmg-pois	150	89	171	res-pois-len		30	30						armo	weap											0	0
+of Botulism Normal	100	1		48		34				1	305	dmg-pois	200	101	186	res-pois-len		45	45						armo	weap											0	0
+Medium Armor	100	1	1	1		1				2	500	red-dmg%		2	2										armo	weap											0	0
+Heavy Armor	100	1	1	1		1				2	501	red-dmg%		5	5										armo	weap											0	0
+of Minor Rejuvenation	100	1	1	1	41	1				4	502	regen-mana		10	14										armo	weap											0	0
+of Light Rejuvenation	100	1	1	11	64	3				3	502	regen-mana		15	20										armo	weap											0	0
+of Rejuvenation	100	1	1	25		6				3	502	regen-mana		21	28										armo	weap											0	0
+of Greater Rejuvenation	100	1	1	42		10				2	502	regen-mana		29	40										armo	weap											0	0
+of Super Rejuvenation	100	1	1	65		14				1	502	regen-mana		41	55										armo	weap											0	0
+of Blight Exceptional Elite	100	1	1	1	47	2				3	306	dmg-pois	75	8	24	res-pois-len		15	15						armo	weap											0	0
+of Venom Exceptional Elite	100	1	1	15		7				2	306	dmg-pois	100	29	78	res-pois-len		20	20						armo	weap											0	0
+of Pestilence Exceptional Elite	100	1	1	25		13				2	306	dmg-pois	125	72	158	res-pois-len		25	25						armo	weap											0	0
+of Anthrax Exceptional Elite	100	1	1	33		21				2	306	dmg-pois	150	120	239	res-pois-len		30	30						armo	weap											0	0
+of Botulism Exceptional Elite	100	1		48		34				1	306	dmg-pois	200	174	355	res-pois-len		45	45						armo	weap											0	0

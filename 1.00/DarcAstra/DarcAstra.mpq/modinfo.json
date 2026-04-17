@@ -1,0 +1,28 @@
+{
+    "name": "DarcAstra",
+    "savepath": "DarcAstra/"
+
+/*
+--My Mod Details--
+Mod Download: https://github.com/DarkMasterMan0/DarcAstra/archive/refs/heads/main.zip
+Mod Config Download: https://github.com/DarkMasterMan0/DarcAstra/raw/refs/heads/main/DarcAstra/DarcAstra.mpq/modinfo.json
+Mod Version: 1.00
+News 1 Title: "1.00 released January 7th, 2026"
+News 1 Message: "Initial release of DarcAstra, sadly rushed due to time constraints (my apologies). I shall add the remaining changes in a future update. Thank you for playing my mod, feel free to make any changes that you desire!"
+News 2 Title: "1.00 Changelog"
+News 2 Message: "See the Patch Notes.md file in the topmost DarcAstra folder for the changelog."
+
+--General Options--
+Map Layouts: Disabled
+UI Themes: Disabled
+Customizations: Enabled
+Vault Access: Disabled
+
+--Additional Options--
+Item Icons: Disabled
+Runeword Sorting: Disabled
+HUD Display: Disabled
+Monster Stats Display: False
+*/
+
+}
