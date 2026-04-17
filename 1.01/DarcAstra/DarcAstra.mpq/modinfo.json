@@ -1,0 +1,28 @@
+{
+    "name": "DarcAstra",
+    "savepath": "DarcAstra/"
+
+/*
+--My Mod Details--
+Mod Download: https://github.com/DarkMasterMan0/DarcAstra/archive/refs/heads/main.zip
+Mod Config Download: https://github.com/DarkMasterMan0/DarcAstra/raw/refs/heads/main/DarcAstra/DarcAstra.mpq/modinfo.json
+Mod Version: 1.01
+News 1 Title: "1.01 released March 17th, 2026"
+News 1 Message: "Thanks for playing my mod, enjoy!"
+News 2 Title: "1.01 Changelog"
+News 2 Message: "Minor bug fixes, ethereal items now have double durability + 1 instead of half durability + 1."
+
+--General Options--
+Map Layouts: Disabled
+UI Themes: Disabled
+Customizations: Enabled
+Vault Access: Disabled
+
+--Additional Options--
+Item Icons: Disabled
+Runeword Sorting: Disabled
+HUD Display: Disabled
+Monster Stats Display: False
+*/
+
+}
