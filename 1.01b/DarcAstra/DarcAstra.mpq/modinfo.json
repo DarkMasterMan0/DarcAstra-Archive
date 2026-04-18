@@ -1,0 +1,28 @@
+{
+    "name": "DarcAstra",
+    "savepath": "DarcAstra/"
+
+/*
+--My Mod Details--
+Mod Download: https://github.com/DarkMasterMan0/DarcAstra/archive/refs/heads/main.zip
+Mod Config Download: https://github.com/DarkMasterMan0/DarcAstra/raw/refs/heads/main/DarcAstra/DarcAstra.mpq/modinfo.json
+Mod Version: 1.01b
+News 1 Title: "1.01b released April 17th, 2026"
+News 1 Message: "Thanks for playing my mod, enjoy!"
+News 2 Title: "1.01b Changelog"
+News 2 Message: "Bug fix, monsters no longer drop more than 6 items. Duriel's town portal scroll drop is now limited to 1 max, instead of 0 to 5. He can still select drop more than one if his other drops select TP scrolls, but the odds are highly unlikely and this will improve his drop rates somewhat."
+
+--General Options--
+Map Layouts: Disabled
+UI Themes: Disabled
+Customizations: Enabled
+Vault Access: Disabled
+
+--Additional Options--
+Item Icons: Disabled
+Runeword Sorting: Disabled
+HUD Display: Disabled
+Monster Stats Display: False
+*/
+
+}
